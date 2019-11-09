@@ -21,9 +21,11 @@ The following **required** functionality is completed:
   - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
   - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
+
 The following **optional** features are implemented:
 
 - [X] User can view more tweets as they scroll with infinite pagination
+
 
 ## Video Walkthrough
 
