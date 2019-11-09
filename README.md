@@ -35,8 +35,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='Walkthrough.gif' title='Video Walkthrough' width='325' alt='Video Walkthrough' />
+<p style="float: left">
+  <img style="margin-left: 20px !important;" src='Walkthrough.gif' title='Video Walkthrough' width='325' alt='Video Walkthrough' />
+  <img src='Walkthrough2.gif' title='Video Walkthrough2' width='325' alt='Video Walkthrough2' />
+</p>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
